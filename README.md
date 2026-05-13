@@ -1,29 +1,123 @@
-*Project Title: Global Sustainable Energy — A Cross-National Analysis (2000–2020)*
+# Global Sustainable Energy: A Cross National Analysis (2000 to 2020)
 
-Tutorial section: TT3L
+## Tutorial Section
+TT3L
 
-Group: 8
+---
 
-Student ID	Student Name	Contribution
-1	242UC244PP	NICHOLAS BEH ZHI YANG	25%
-2	242UC244SX	YAP YANG YI	25%
-3	242UC244M6	YAP HUI CHI	25%
-4	252UC254MS	LIAW YONG LOON	25%
-Note: Marks may vary among group members based on individual contributions. Ensure all members agree on the contribution percentages listed here.
+# Group 8
 
-YouTube link:
-Please note that the examiner will not notify you if your video link is unavailable, inaccessible, or incorrectly provided. It is the responsibility of the group to ensure that the video link is fully functional and accessible at the time of assessment. Failure to provide a valid and working link will result in a score of zero (0) marks for the presentation component.
+| No. | Student ID | Student Name | Contribution |
+|----|----|----|----|
+| 1 | 242UC244PP | NICHOLAS BEH ZHI YANG | 25% |
+| 2 | 242UC244SX | YAP YANG YI | 25% |
+| 3 | 242UC244M6 | YAP HUI CHI | 25% |
+| 4 | 252UC254MS | LIAW YONG LOON | 25% |
 
-Dataset Title: Global Data on Sustainable Energy (2000–2020)
+> **Note:** Marks may vary among group members based on individual contributions. All members should agree on the contribution percentages listed above.
 
-Source & Link: Kaggle — https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy
+---
 
-Download instructions: Sign in to Kaggle, navigate to the link above, and click Download. Place the file global-data-on-sustainable-energy.csv inside a ./data/ folder in the same directory as this notebook.
+# YouTube Presentation Link
 
-Brief Description: This dataset contains annual energy indicators for 176 countries spanning 2000–2020, yielding 3,649 observations across 21 variables. Variables include electricity access rates, renewable energy share in total final energy consumption, electricity generation by source (fossil, nuclear, renewables), CO₂ emissions, energy intensity, and macroeconomic indicators (GDP per capita, GDP growth). The dataset is sourced from recognised international bodies including the World Bank, IEA, and Our World in Data, and is published under the CC0 Public Domain licence.
+[Insert YouTube Link Here]
 
-How to Run:
+> Please ensure that the submitted YouTube link is valid, accessible, and functioning properly at the time of assessment. The examiner will not notify the group if the link is unavailable or incorrect. Failure to provide a working and accessible link may result in a score of zero (0) for the presentation component.
 
-Download the dataset from the Kaggle link above and place it at ./data/global-data-on-sustainable-energy.csv.
-Install required packages: pip install pandas numpy matplotlib seaborn scipy (or use requirements.txt if provided).
-Run all cells top-to-bottom: Kernel → Restart & Run All.
+---
+
+# Dataset Information
+
+## Dataset Title
+Global Data on Sustainable Energy (2000 to 2020)
+
+## Source and Link
+Kaggle Dataset:  
+https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy
+
+---
+
+# Brief Description
+
+This dataset contains annual sustainable energy indicators for 176 countries from 2000 to 2020, comprising 3,649 observations across 21 variables.
+
+The variables include:
+
+- Access to electricity
+- Renewable energy share in total final energy consumption
+- Electricity generation by fossil fuels, nuclear energy, and renewable sources
+- CO₂ emissions
+- Energy intensity
+- GDP per capita
+- GDP growth
+
+The dataset is compiled from recognised international organisations such as the World Bank, the International Energy Agency (IEA), and Our World in Data. The dataset is distributed under the CC0 Public Domain licence.
+
+---
+
+# Download Instructions
+
+1. Sign in to Kaggle.
+2. Navigate to the dataset link above.
+3. Download the dataset file.
+4. Place the file below inside the `./data/` folder located in the same directory as the notebook:
+
+```plaintext
+global-data-on-sustainable-energy.csv
+```
+
+Directory structure:
+
+```plaintext
+project-folder/
+│
+├── data/
+│   └── global-data-on-sustainable-energy.csv
+│
+├── notebook.ipynb
+└── README.md
+```
+
+---
+
+# How to Run the Project
+
+## 1. Install Required Packages
+
+```bash
+pip install pandas numpy matplotlib seaborn scipy
+```
+
+Alternatively:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## 2. Run the Notebook
+
+Open the notebook and run all cells from top to bottom:
+
+```plaintext
+Kernel → Restart & Run All
+```
+
+---
+
+# Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SciPy
+- Jupyter Notebook
+
+---
+
+# Licence
+
+This project uses a dataset published under the CC0 Public Domain licence.
