@@ -91,7 +91,7 @@ pip install pandas numpy matplotlib seaborn scipy
 Alternatively:
 
 ```bash
-pip install -r requirements.txt
+pip install -r TT3L_G08_Requirements.txt
 ```
 
 ---
