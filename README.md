@@ -85,7 +85,7 @@ project-folder/
 ## 1. Install Required Packages
 
 ```bash
-pip install pandas numpy matplotlib seaborn scipy
+pip install pandas numpy matplotlib seaborn scipy scikit-learn
 ```
 
 Alternatively:
