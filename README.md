@@ -20,9 +20,7 @@ TT3L
 
 # YouTube Presentation Link
 
-[Insert YouTube Link Here]
-
-> Please ensure that the submitted YouTube link is valid, accessible, and functioning properly at the time of assessment. The examiner will not notify the group if the link is unavailable or incorrect. Failure to provide a working and accessible link may result in a score of zero (0) for the presentation component.
+[https://youtu.be/w4OEUZmt820?si=Y6AbeMazsnRPZX4y]
 
 ---
 
